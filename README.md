@@ -1,0 +1,2 @@
+# szoplab
+Szoftver projekt laboratórium
